@@ -1,0 +1,18 @@
+============================================================
+ MÉTRICAS DEL MODELO XGBOOST (CON TRANSFERENCIA TOTAL)
+============================================================
+
+ROC-AUC: 0.9999
+Accuracy: 0.9989
+Precision: 0.5135
+Recall: 1.0000
+F1-Score: 0.6786
+Specificity: 0.9989
+
+Matriz de Confusión:
+  TP: 228
+  FP: 216
+  FN: 0
+  TN: 199556
+Umbral óptimo: 0.90
+F1 en umbral óptimo: 0.7367
